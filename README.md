@@ -1,4 +1,4 @@
-﻿# poker-hand-skill (agent skill)
+# poker-hand-skill (agent skill)
 
 Agent skill for ingesting GG/PokerStars-style hand histories, dual-EV metrics, batch archive workflow, and exploit-first review.
 
@@ -21,3 +21,7 @@ $skill = "$env:USERPROFILE\.agents\skills\poker-hand-skill\scripts"
 $root  = "$env:USERPROFILE\projects\hh_work"
 py -3 "$skill\ingest_raw.py" "D:\path\to\export.zip" --root $root
 ```
+
+## License
+
+[AGPL-3.0](./LICENSE)

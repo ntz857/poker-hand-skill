@@ -12,7 +12,7 @@ Agent skill for ingesting GG/PokerStars-style hand histories, dual-EV metrics, b
 
 This repo is **skill code only**. Personal archives should live in a **private** data repo (e.g. `poker-hands` / local `~/projects/hh_work`).
 
-Dashboard UI: separate repo `poker-dashboard`.
+Dashboard UI: separate repo `poker-hands-dashboard`.
 
 ## Quick use
 
